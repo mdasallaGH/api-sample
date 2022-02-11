@@ -1,0 +1,25 @@
+{
+  "name": "api-sample",
+  "version": "1.0.0",
+  "description": "sample api request",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdasallaGH/api-sample.git"
+  },
+  "author": "Mike DaSalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdasallaGH/api-sample/issues"
+  },
+  "homepage": "https://github.com/mdasallaGH/api-sample#readme",
+  "dependencies": {
+    "@types/node": "^17.0.17",
+    "axios": "^0.25.0",
+    "nodejs": "0.0.0",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
