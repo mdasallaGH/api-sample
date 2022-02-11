@@ -1,5 +1,13 @@
 # Mike's API sample and work code samples
 
+## Explanation
+### Approach
+I decided to use nodeJs and import the axios module to make the api request as easy as possible. I then wanted to do some validation on the returned results using asserts.
+
+### Pros and Cons
+Pros - Easy to understand and use by calling the method and then being able to parse the response for validation
+Cons - The returned jokes could be funnier...
+
 ## Install and setup in terminal
 `npm install`
 
