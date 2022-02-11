@@ -1,6 +1,6 @@
 import { assert } from "console";
 
-var axios = require("axios").default;
+const axios = require("axios").default;
 
 async function getChuckNorrisJoke() {
     try {
