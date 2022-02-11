@@ -24,5 +24,5 @@ This will run the code in the .ts file.
 Samples of code I wrote for my current position can be found in the folder /work-samples (this code is not meant to compile).
 This code has samples of using API, UI and mobile method calls in one test spec.
 
-##Image of api call returning value
+## Image of api call returning value
 ![image](https://user-images.githubusercontent.com/99370276/153659680-06575f32-d546-4299-81d1-cf5f8b80d2eb.png)
